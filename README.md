@@ -39,3 +39,13 @@ CUDA_VISIBLE_DEVICES=0 python3 run.py \
 --dataset wikitext2 \
 --prune_super_experts
 ```
+## Citation  
+```bibtex
+@article{su2025unveiling,
+  title={Unveiling Super Experts in Mixture-of-Experts Large Language Models},
+  author={Su, Zunhai and Li, Qingyuan and Zhang, Hao and Qian, YuLei and Xie, Yuchen and Yuan, Kehong},
+  journal={arXiv preprint arXiv:2507.23279},
+  year={2025}
+}
+```
+
